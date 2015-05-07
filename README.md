@@ -1,4 +1,7 @@
 # Mongoid Tiny Search
+
+This is under development and not recommended for production use yet. 
+
 Basic and fast mongoid search 
 
 Features :
